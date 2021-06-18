@@ -4,7 +4,7 @@
 
 <br />
 
-I am a 3rd yr undergraduat from Banasthali Vidyapith, who is passionate about technologies. I have experience of a year in development. I want to work in an organization where I can utilize my skills and abilities efficiently and enhance my skills to meet company goals with determination and enthusiasm.
+I am a 3rd yr undergraduate from Banasthali Vidyapith, who is passionate about technologies. I have experience of a year in development. I want to work in an organization where I can utilize my skills and abilities efficiently and enhance my skills to meet company goals with determination and enthusiasm.
 <br/>
 
 Web Developer | DSC Banasthali Vidyapith Technical Team Member | 
@@ -31,8 +31,9 @@ You have finally discovered my Github profile!!
 Please feel free to clone projects and raise issues if you think something could be better.
 <br/>
 Happy Coding!!
+<br/>
 
 
 <a href="https://www.linkedin.com/in/ishitas0301/">
-  <img align="left" alt="Aakansha's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ishita's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
