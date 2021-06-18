@@ -9,7 +9,6 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning ... React js
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-
 - 📫 How to reach me: ... mail me at ishitas0301@gmail.com
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
