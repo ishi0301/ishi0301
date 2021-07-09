@@ -4,7 +4,7 @@
 
 <br />
 
-I am a 3rd yr undergraduate from Banasthali Vidyapith, who is passionate about technologies. I have experience of a year in development. I want to work in an organization where I can utilize my skills and abilities efficiently and enhance my skills to meet company goals with determination and enthusiasm.
+I am a final year undergraduate from Banasthali Vidyapith, who is passionate about technologies. I have experience of a year in development. I want to work in an organization where I can utilize my skills and abilities efficiently and enhance my skills to meet company goals with determination and enthusiasm.
 <br/>
 
 Web Developer | DSC Banasthali Vidyapith Technical Team Member | 
@@ -14,7 +14,6 @@ Web Developer | DSC Banasthali Vidyapith Technical Team Member |
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning React js
 - 👯 Open Source Contributor 
 - 🤷‍♂️ Read my blogs at - https://ishi0301.medium.com/
 - 📫 How to reach me -  ishitas0301@gmail.com
