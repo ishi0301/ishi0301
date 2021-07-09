@@ -7,7 +7,7 @@
 I am a final year undergraduate from Banasthali Vidyapith, who is passionate about technologies. I have experience of a year in development. I want to work in an organization where I can utilize my skills and abilities efficiently and enhance my skills to meet company goals with determination and enthusiasm.
 <br/>
 
-Web Developer | DSC Banasthali Vidyapith Technical Team Member | 
+GHC'21 Scholar | Web Developer | DSC Banasthali Vidyapith Technical Team Member | 
 <!--
 **ishi0301/ishi0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
