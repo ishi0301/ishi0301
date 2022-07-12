@@ -4,7 +4,7 @@
 
 <br />
 
-I am a final year undergraduate from Banasthali Vidyapith, who is passionate about technologies. I have experience of a year in development. I want to work in an organization where I can utilize my skills and abilities efficiently and enhance my skills to meet company goals with determination and enthusiasm.
+I have graduated from Banasthali Vidyapith. I am passionate about technologies. I have completed 5 month internship as a SDE Intern at THALES. During my internship I have worked on the front end part of a web portal named as 'Tenant Management System' which I made using Angular. I want to work in an organization where I can utilize my skills and abilities efficiently and enhance my skills to meet company goals with determination and enthusiasm.
 <br/>
 
 GHC'21 Scholar | Web Developer | DSC Banasthali Vidyapith Technical Team Member | 
